@@ -237,6 +237,7 @@ int main()
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/e6289149-bfad-4772-9f0d-121721fa04eb)
 
 
 ## RESULT:
@@ -481,7 +482,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/a5f4e5a4-6c59-4a3c-a9b8-f29d790e19fb)
+![image](https://github.com/user-attachments/assets/75910233-a95d-4a4f-ac31-444f888dba17)
+
 
 
 
